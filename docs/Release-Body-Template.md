@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/shinkofa/Hoso/main/docs/screenshots/png/hero.png" width="100%" alt="Hoso — streame ton jeu mobile vers Twitch, directement depuis ton téléphone"/>
+<img src="https://raw.githubusercontent.com/theermite/Hoso/main/docs/screenshots/png/hero.png" width="100%" alt="Hoso — streame ton jeu mobile vers Twitch, directement depuis ton téléphone"/>
 
 ## Hoso · 放送 — Streame ton jeu mobile vers Twitch
 
@@ -16,7 +16,7 @@
 Pas besoin de passer par le Play Store. L'app se télécharge comme un fichier — ça prend 4 minutes.
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/shinkofa/Hoso/main/docs/screenshots/png/install-flow.png" width="100%" alt="Guide d'installation en 4 étapes"/>
+<img src="https://raw.githubusercontent.com/theermite/Hoso/main/docs/screenshots/png/install-flow.png" width="100%" alt="Guide d'installation en 4 étapes"/>
 </div>
 
 ### Étape 1 — Télécharge l'APK
@@ -43,7 +43,7 @@ Ouvre le fichier `.apk` téléchargé → **Installer** → **Ouvrir**.
 
 **Paramètres → Batterie → Optimisation de la batterie** → cherche « Hoso » → sélectionne **Ne pas optimiser**.
 
-→ [Guide détaillé par marque (Samsung, Xiaomi, Oppo…)](https://github.com/shinkofa/Hoso/blob/main/docs/Battery-Optimization-Guide.md)
+→ [Guide détaillé par marque (Samsung, Xiaomi, Oppo…)](https://github.com/theermite/Hoso/blob/main/docs/Battery-Optimization-Guide.md)
 
 ---
 
@@ -52,29 +52,29 @@ Ouvre le fichier `.apk` téléchargé → **Installer** → **Ouvrir**.
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/shinkofa/Hoso/main/docs/screenshots/png/screen-main.png" width="180" alt="Écran principal"/>
+      <img src="https://raw.githubusercontent.com/theermite/Hoso/main/docs/screenshots/png/screen-main.png" width="180" alt="Écran principal"/>
       <br/><sub><b>Écran principal</b><br/>Destinations, stream, audio, Streamer.bot</sub>
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/shinkofa/Hoso/main/docs/screenshots/png/screen-stream-config.png" width="180" alt="Réglages stream"/>
+      <img src="https://raw.githubusercontent.com/theermite/Hoso/main/docs/screenshots/png/screen-stream-config.png" width="180" alt="Réglages stream"/>
       <br/><sub><b>Réglages stream</b><br/>Résolution, bitrate, clé de stream</sub>
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/shinkofa/Hoso/main/docs/screenshots/png/screen-audio-mix.png" width="180" alt="Mode Mix audio"/>
+      <img src="https://raw.githubusercontent.com/theermite/Hoso/main/docs/screenshots/png/screen-audio-mix.png" width="180" alt="Mode Mix audio"/>
       <br/><sub><b>Mode Mix audio</b><br/>Micro + son du jeu, balance indépendante</sub>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/shinkofa/Hoso/main/docs/screenshots/png/screen-overlay-collapsed.png" width="180" alt="Bulle overlay"/>
+      <img src="https://raw.githubusercontent.com/theermite/Hoso/main/docs/screenshots/png/screen-overlay-collapsed.png" width="180" alt="Bulle overlay"/>
       <br/><sub><b>En jeu — discret</b><br/>Bulle draggable, toujours là</sub>
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/shinkofa/Hoso/main/docs/screenshots/png/screen-overlay-expanded.png" width="180" alt="Contrôles live"/>
+      <img src="https://raw.githubusercontent.com/theermite/Hoso/main/docs/screenshots/png/screen-overlay-expanded.png" width="180" alt="Contrôles live"/>
       <br/><sub><b>Contrôles live</b><br/>HUD + actions en un tap</sub>
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/shinkofa/Hoso/main/docs/screenshots/png/screen-chat.png" width="180" alt="Chat Twitch"/>
+      <img src="https://raw.githubusercontent.com/theermite/Hoso/main/docs/screenshots/png/screen-chat.png" width="180" alt="Chat Twitch"/>
       <br/><sub><b>Chat Twitch</b><br/>Flottant, redimensionnable</sub>
     </td>
   </tr>
@@ -117,4 +117,4 @@ Non. Hoso tourne en arrière-plan via un service natif Android. En cas de coupur
 
 ---
 
-*Hoso (放送) — « diffusion » en japonais · [Code source](https://github.com/shinkofa/Hoso) · [Licence Apache 2.0](https://github.com/shinkofa/Hoso/blob/main/LICENSE)*
+*Hoso (放送) — « diffusion » en japonais · [Code source](https://github.com/theermite/Hoso) · [Licence Apache 2.0](https://github.com/theermite/Hoso/blob/main/LICENSE)*

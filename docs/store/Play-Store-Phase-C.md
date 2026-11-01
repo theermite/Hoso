@@ -2,13 +2,13 @@
 
 > Doc de prép Takumi. À recopier dans les formulaires Play Console par Jay.
 > Source : session 2026-06-14. App v1.0.0 (versionCode 2), `com.theermite.hoso`.
-> Politique publique : `PRIVACY.md` racine repo → https://github.com/shinkofa/Hoso/blob/main/PRIVACY.md
+> Politique publique : `PRIVACY.md` racine repo → https://github.com/theermite/Hoso/blob/main/PRIVACY.md
 
 ---
 
 ## 1. Privacy policy (champ Play Console)
 
-- **URL** : `https://github.com/shinkofa/Hoso/blob/main/PRIVACY.md`
+- **URL** : `https://github.com/theermite/Hoso/blob/main/PRIVACY.md`
 - Accessible aussi **in-app** (ligne pied de page sous « Quitter ») — exigence Google
   pour les permissions sensibles (micro + capture écran). ✅ livré cette session.
 

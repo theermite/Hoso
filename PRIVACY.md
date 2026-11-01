@@ -3,7 +3,7 @@
 **App**: Hoso (`com.theermite.hoso`)
 **Version**: 1.0.0
 **Last updated**: 2026-06-14
-**License**: Apache 2.0 — source code: https://github.com/shinkofa/Hoso
+**License**: Apache 2.0 — source code: https://github.com/theermite/Hoso
 
 > Hoso is an open-source personal mobile streaming app. It captures your screen and
 > audio and sends them to a streaming server **you** configure (Twitch, YouTube,
@@ -78,7 +78,7 @@ with a new "Last updated" date.
 
 ### Contact
 
-Questions or concerns: open an issue at https://github.com/shinkofa/Hoso/issues
+Questions or concerns: open an issue at https://github.com/theermite/Hoso/issues
 
 ---
 
@@ -152,7 +152,7 @@ avec une nouvelle date de « dernière mise à jour ».
 ### Contact
 
 Questions ou préoccupations : ouvrez une issue sur
-https://github.com/shinkofa/Hoso/issues
+https://github.com/theermite/Hoso/issues
 
 ---
 
@@ -226,4 +226,4 @@ con una nueva fecha de «última actualización».
 ### Contacto
 
 Preguntas o inquietudes: abra una incidencia en
-https://github.com/shinkofa/Hoso/issues
+https://github.com/theermite/Hoso/issues

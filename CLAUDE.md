@@ -23,7 +23,7 @@ No exception. No shortcut.
 | Nom | Hoso (放送 — « diffusion »), anciennement Hōsō |
 | Type | App Android native (Kotlin), package `com.theermite.hoso` |
 | Statut réel | Fonctionnelle, en test fermé Play Store Alpha (vc12/1.1.0, déployé 2026-07-03). Pas sur le Play Store public. 1 bug ouvert (crash lancement Samsung S25 Ultra). |
-| Repo | Local `D:\30-Dev-Projects\Hoso`. Distant déclaré dans les docs : `github.com/shinkofa/Hoso` (public, Apache 2.0). |
+| Repo | Local `D:\30-Dev-Projects\Hoso`. Distant déclaré dans les docs : `github.com/theermite/Hoso` (public, Apache 2.0). |
 | Fork associé | `streampack-fork/` — fork local de StreamPack 3.1.2 (gitignored, dépôt Git séparé), branche `fix/twitch-audio-race-hoso`, PR upstream `ThibaultBee/StreamPack#294` |
 
 ## Ce que fait Hoso
